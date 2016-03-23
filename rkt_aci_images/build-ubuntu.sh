@@ -4,7 +4,7 @@ acbuild --debug begin
 
 acbuild --debug set-name example.com/apache2_ubuntu
 
-acbuild --debug dep add quay.io/appcontainers/ubuntu
+acbuild --debug dependency add quay.io/appcontainers/ubuntu
 acbuild --debug set-user root 
 
 acbuild --debug port add dns udp 53
