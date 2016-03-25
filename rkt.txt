@@ -1,0 +1,10 @@
+Agenda
+----------
+What Is rkt
+rkt process model
+rkt vs docker
+build rkt aci
+docker to aci 
+networking
+linking and cluster
+rkt with kubernetes and systemd
